@@ -99,7 +99,7 @@ export const measures: Measure[] = [
     cost: 18000,
     annualSavings: 1300,
     co2Reduction: 2.8,
-    incentive: 5000,
+    incentive: 6000,
     category: "Long-term",
     sourceNote:
       "Classroom estimate. Actual cost and production depend on system size, location, and roof conditions."
@@ -112,7 +112,7 @@ export const measures: Measure[] = [
     cost: 25000,
     annualSavings: 1500,
     co2Reduction: 3.0,
-    incentive: 5000,
+    incentive: 7000,
     category: "Long-term",
     sourceNote:
       "Classroom estimate. Actual economics depend on system size, utility rates, and battery operation."
